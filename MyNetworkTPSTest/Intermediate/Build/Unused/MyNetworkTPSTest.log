@@ -1,0 +1,5 @@
+﻿  Cleaning MyNetworkTPSTestEditor and UnrealHeaderTool binaries...
+  Creating makefile for MyNetworkTPSTestEditor (no existing makefile)
+  Parsing headers for MyNetworkTPSTestEditor
+    Running UnrealHeaderTool "C:\d_dr\prog\ue4\samples\MyNetworkTPSTest\MyNetworkTPSTest.uproject" "C:\d_dr\prog\ue4\samples\MyNetworkTPSTest\Intermediate\Build\Win64\MyNetworkTPSTestEditor\Development\MyNetworkTPSTestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  C:/d_dr/prog/ue4/samples/MyNetworkTPSTest/Source/MyNetworkTPSTest/Private/MyNetworkGameModeBase.h(19) : LogCompile: Error: BlueprintPure specifier is not allowed for functions with no return value and no output parameters.

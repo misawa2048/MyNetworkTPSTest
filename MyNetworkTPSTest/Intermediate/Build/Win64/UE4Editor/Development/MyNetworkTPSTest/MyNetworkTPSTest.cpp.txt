@@ -1,0 +1,2 @@
+C:\d_dr\prog\ue4\samples\MyNetworkTPSTest\Intermediate\Build\Win64\UE4Editor\Development\MyNetworkTPSTest\Definitions.MyNetworkTPSTest.h
+c:\d_dr\prog\ue4\samples\mynetworktpstest\source\mynetworktpstest\MyNetworkTPSTest.h

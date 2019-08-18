@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyNetworkTPSTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{10D492D3-E74D-47D1-89B9-5BAF5439C276}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyNetworkTPSTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyNetworkTPSTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{46952A71-D837-4C0D-B712-E02A3EAB8F8C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyNetworkTPSTest">
+      <UniqueIdentifier>{FC08FA1F-0429-4E89-8251-34DB93A351B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyNetworkTPSTest\MyNetworkTPSTest.Build.cs">
+      <Filter>Source\MyNetworkTPSTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyNetworkTPSTest\MyNetworkTPSTest.cpp">
+      <Filter>Source\MyNetworkTPSTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyNetworkTPSTest\MyNetworkTPSTest.h">
+      <Filter>Source\MyNetworkTPSTest</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyNetworkTPSTest\Private">
+      <UniqueIdentifier>{2834E2D2-A170-4E69-A65B-AC12FB947A88}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyNetworkTPSTest\Private\MyLevelScriptActor.cpp">
+      <Filter>Source\MyNetworkTPSTest\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyNetworkTPSTest\Private\MyLevelScriptActor.h">
+      <Filter>Source\MyNetworkTPSTest\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MyNetworkTPSTest\Private\MyTestActor.h">
+      <Filter>Source\MyNetworkTPSTest\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyNetworkTPSTest\Private\MyNetworkGameModeBase.h">
+      <Filter>Source\MyNetworkTPSTest\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MyNetworkTPSTest\Private\MyTestActor.cpp">
+      <Filter>Source\MyNetworkTPSTest\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyNetworkTPSTest\Private\MyNetworkGameModeBase.cpp">
+      <Filter>Source\MyNetworkTPSTest\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
